@@ -1,0 +1,25 @@
+1.Which of the following command is used to count the total number of lines, words, and characters contained in a file?
+a)wc
+b)wcount
+c)countw
+d)none of the above
+2.Identify the command which is used to remove files.
+a)delete
+b)rm
+c)dm
+d)erase
+3.Among the following command which is used with vi editors to delete a single character?
+a)a
+b)x
+c)y
+d)z
+4.choose the tcp/ip protocol which is used for remote terminalconnection service?
+a)FTP
+b)UDP
+c)RARP
+d)TELNET
+5.identify the service which is used for remote terminal connection service?
+a)NIS
+b)DNS
+c)SMB
+d)NFS
