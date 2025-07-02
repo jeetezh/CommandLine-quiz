@@ -1,11 +1,4 @@
 #!/bin/bash
-<<doc
-name:shreyas Rai k 
-Date:03/10/2022
-Description:
-sample i/p:
-sample o/p:
-doc
 b=y
 while [ $b = "y" ]
 do
